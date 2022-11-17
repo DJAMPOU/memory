@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647183305 source:c:\users\un nom\desktop\projet c 3il\memory\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+
